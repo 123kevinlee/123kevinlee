@@ -10,7 +10,7 @@ Some other things about me:
 - ⚡ I do competitive programming in Java
 - 🌱 I’m currently learning data structures, algorithms, and C++ for cp.
 
-[![Kevin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=123kevinlee&count_private=true&show_icons=true&theme=prussian)]
+![Kevin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=123kevinlee&count_private=true&show_icons=true&theme=prussian)
 
 <!--
 **123kevinlee/123kevinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
