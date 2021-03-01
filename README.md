@@ -6,7 +6,7 @@ I'm currently working on a research project that visualizes sound based on the c
 
 Some other things about me:
 - 💬 I do Discord bot development using Discord.js
-- 😄 I do web development using the MEAN stack and some mobile development using Expo.io
+- 😄 I do web development using the MERN stack and some mobile development using Expo.io
 - ⚡ I do competitive programming in Java
 - 🌱 I’m currently learning data structures, algorithms, and C++ for cp.
 
