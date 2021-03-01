@@ -2,7 +2,7 @@
 
 I'm Kevin Lee, a high school senior that enjoys learning about computer science and software development. 
 
-I'm currently working on a research project that visualizes sound to people with hearing disabilities based on the condition of Chromesthesia.
+I'm currently working on a research project that visualizes sound based on the condition of Chromesthesia for people with hearing disabilities.
 
 Some other things about me:
 - 💬 I do Discord bot development using Discord.js
