@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Kevin Lee 👋
+
+I'm currently a high school senior planning on pursuing computer science in college. 
 
 <!--
 **123kevinlee/123kevinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
