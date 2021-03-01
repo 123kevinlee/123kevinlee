@@ -1,6 +1,14 @@
-### Hi, I'm Kevin Lee 👋
+### Hello Visitor! 👋
 
-I'm currently a high school senior planning on pursuing computer science in college. 
+I'm Kevin Lee, a high school senior that enjoys learning about computer science and software development. 
+
+I'm currently working on a research project that visualizes sound to people with hearing disabilities based on the condition of Chromesthesia.
+
+Some other things about me:
+- 💬 I do Discord bot development using Discord.js
+- 😄 I do web development using the MEAN stack and some mobile development using Expo.io
+- ⚡ I do competitive programming in Java
+- 🌱 I’m currently learning data structures, algorithms, and C++ for cp.
 
 <!--
 **123kevinlee/123kevinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
