@@ -1,6 +1,6 @@
 ### Hello Visitor! 👋
 
-I'm Kevin Lee, a first-year at the University of Virginia that enjoys learning about computer science and software development. 
+I'm Kevin Lee, a student at the University of Virginia that enjoys learning about computer science and software development. 
 
 Some other things about me:
 - 💬 I do Discord bot development using Discord.js
