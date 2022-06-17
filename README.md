@@ -6,7 +6,6 @@ Some other things about me:
 - 💬 I do Discord bot development using Discord.js
 - 😄 I do web development using the MERN stack and some mobile development using Expo.io
 - ⚡ I do competitive programming in Java
-- 🌱 I’m currently learning data structures, algorithms, and C++ for cp.
 
 ![Kevin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=123kevinlee&count_private=true&show_icons=true&theme=buefy)
 
