@@ -1,11 +1,12 @@
 ### Hello Visitor! 👋
 
-I'm Kevin Lee, a student at the University of Virginia that enjoys learning about computer science and software development. 
+I'm Kevin Lee, a student at the University of Virginia that is passionate about computer science and software development. 
 
 Some other things about me:
+- ⚡ I do competitive programming (ICPC) in Java
+- 😄 I do web development using the MERN stack
 - 💬 I do Discord bot development using Discord.js
-- 😄 I do web development using the MERN stack and some mobile development using Expo.io
-- ⚡ I do competitive programming in Java
+- 🌱 I love integrating cs into daily life
 
 ![Kevin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=123kevinlee&count_private=true&show_icons=true&theme=buefy)
 
