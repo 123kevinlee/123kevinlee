@@ -8,9 +8,9 @@ Some other things about me:
 - 💬 I do Discord bot development using Discord.js
 - 🌱 I love integrating cs into daily life
 
+<!--
 ![Kevin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=123kevinlee&count_private=true&show_icons=true&theme=buefy)
 
-<!--
 **123kevinlee/123kevinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
